@@ -84,8 +84,6 @@
   - Merge a Pull Request
     ![making a pull request](./assets/images/docs/merge_pull_request.png)
 
-
-
 sources:
 https://help.github.com/en/articles/working-with-forks
 https://drupal.gatech.edu/handbook/using-pull-requests-forks
